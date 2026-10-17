@@ -1,5 +1,8 @@
 ﻿# ESPs3 SDR — ESP32-S3 Spectrum Analyzer + Delphi client
 
+![Spectrum View](espsdr.jpg)
+
+
 **Open Hardware · Open Source · Open RF Research — Beyond Limits**
 
 Анализатор спектра 1842–2790 МГц на встроенном Wi-Fi радио **ESP32-S3**
@@ -130,7 +133,7 @@ end;
 - **Peak Hold** — оранжевая линия максимумов, сброс при смене частоты.
 - **IQ Stream + cbIQDecim** — пакетный I/Q с прореживанием 1024/256.
 - **pbScope** — спектр с градиентной заливкой и автошкалой.
-- **Memo1** — лог (`>>` команды, `<<` ответы).
+- **Memo1** — лог
 - **Gauge1** — fps или прогресс ChkRange.
 
 ---
