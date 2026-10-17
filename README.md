@@ -159,6 +159,17 @@ end;
 
 ---
 
+<div align="center">
+  <a href="https://youtu.be/K4UOwqGNATw">
+    <!-- Используем hqdefault вместо maxresdefault -->
+    <img src="https://img.youtube.com/vi/K4UOwqGNATw/hqdefault.jpg" alt="ESP32 SDR" width="600"/>
+  </a>
+  <br/>
+  <em>🎥 Нажмите на изображение для просмотра демонстрации работы</em>
+</div>
+
+YouTube:  https://youtu.be/K4UOwqGNATw
+
 ## Credits
 
 - **ESP-SDR** (ESPARGOS project) — открытие raw I/Q пути ESP32,
